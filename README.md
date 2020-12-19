@@ -19,4 +19,4 @@ This repository contains all the source code (R) and corresponding dataset for t
 
 **Model Diagnostic.R**: Including model diagnostic for logistic regression and PCA.
 
-*Note: All data preprocessing are included in the EDA.R. To get results of all models, please run the EDA.R first.*
+***Note: All data preprocessing are included in the EDA.R. To get results of all models, please run the EDA.R first.***
