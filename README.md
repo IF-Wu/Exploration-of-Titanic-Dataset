@@ -5,8 +5,8 @@ This repository contains all the source code (R) for the final project.
 
 ## Introduction of each file
 
-**EDA.R**: Including data preprocessing and explanatory data analysis
+**EDA.R**: Including data preprocessing and explanatory data analysis.
 
-
+**Model Diagnostic.R**: Including model diagnostic for logistic regression and PCA.
 
 *Note: All data preprocessing are included in the EDA.R. To get results of all models, please run the EDA.R first.*
