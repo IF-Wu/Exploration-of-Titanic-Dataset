@@ -3,6 +3,8 @@ This is the repository for STA141A final project in Fall 2020.
 
 This repository contains all the source code (R) and corresponding dataset for the final project.
 
+**Group Members**: Chen Zhang, Miao Hu, Xialin Sang, Yifu Wu, Yujia Cai
+
 ## Introduction
 
 **Titanic.csv**: The Titanic dataset used in the project.
