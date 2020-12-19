@@ -7,11 +7,11 @@ This repository contains all the source code (R) for the final project.
 
 **EDA.R**: Including data preprocessing and explanatory data analysis.
 
-**Logistic Regression.R**:
+**Logistic Regression.R**: Including the model based on the logistic regression and its performance.
 
-**Random Forest.R**:
+**Random Forest.R**: Including the model and its performance based on Random Forest, hyperparameter tunning based on cross validation, exploration of decision tree.
 
-**PCA and KNN.R**:
+**PCA and KNN.R**: Including the performance of models based on KNN and PCA.
 
 **Model Diagnostic.R**: Including model diagnostic for logistic regression and PCA.
 
