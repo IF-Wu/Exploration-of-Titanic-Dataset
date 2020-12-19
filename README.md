@@ -5,6 +5,8 @@ This repository contains all the source code (R) for the final project.
 
 ## Introduction
 
+**Titanic.csv**: The Titanic dataset used in the project.
+
 **EDA.R**: Including data preprocessing and explanatory data analysis.
 
 **Logistic Regression.R**: Including the model based on the logistic regression and its performance.
